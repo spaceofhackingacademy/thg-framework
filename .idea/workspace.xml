@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a401ea27-2895-468d-b8ac-d4dd50a87a7f" name="Default Changelist" comment="add msf">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a401ea27-2895-468d-b8ac-d4dd50a87a7f" name="Default Changelist" comment="remove env" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +237,7 @@
       <workItem from="1617665970518" duration="2230000" />
       <workItem from="1617668504371" duration="4660000" />
       <workItem from="1617673208898" duration="9835000" />
-      <workItem from="1619204865572" duration="675000" />
+      <workItem from="1619204865572" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="thg version 1.2">
       <created>1605320756880</created>
@@ -304,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605465833143</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="remove env">
+      <created>1619207572708</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619207572708</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +335,8 @@
     <MESSAGE value="[db][db_rebuild][check module insert ou not]" />
     <MESSAGE value="add recode_file try fix on list mtd" />
     <MESSAGE value="add msf" />
-    <option name="LAST_COMMIT_MESSAGE" value="add msf" />
+    <MESSAGE value="remove env" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove env" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
