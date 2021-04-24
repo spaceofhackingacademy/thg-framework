@@ -1975,6 +1975,7 @@ class Cmd(cmd.Cmd):
 
         :param cmds: command strings suitable for onecmd_plus_hooks.
         :return: True implies the entire application should exit.
+        @rtype: object
 
         """
         stop = False

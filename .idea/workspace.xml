@@ -1,108 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a401ea27-2895-468d-b8ac-d4dd50a87a7f" name="Default Changelist" comment="test2">
+    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add thgscript">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thg-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/lib.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thgscript/teste" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/util/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/util/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/external.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/options.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/ui.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thg/core/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="JupyterTrust" id="5c88e68a-7513-410e-8212-0a95131859c6" />
-  <component name="ProjectId" id="1kGHtWCAz6aZ3RTerfenbarhbQl" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
+  <component name="ProjectId" id="1raMsQl5c9vRaP2mMwAnhiqSoZT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/thg/base" />
-      <recent name="$PROJECT_DIR$/lib/thg/base/Database" />
-      <recent name="$PROJECT_DIR$/lib/thg/util" />
-      <recent name="$PROJECT_DIR$/lib/thg/core/Mods" />
-      <recent name="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.alert">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="thg-framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="alert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="deprecated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="thg-framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,95 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/alert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="thg-framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/thg/core/storage_manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/thg/core/storage_manager/base.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="generate_uuid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="thg-framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="site_reference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="thg-framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/thg/core" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/thg/core/site_reference.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="thg-framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,124 +80,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alert" />
-        <item itemvalue="Python.generate_uuid" />
-        <item itemvalue="Python.site_reference" />
-        <item itemvalue="Python.base" />
-        <item itemvalue="Python.tmp" />
+        <item itemvalue="Python.deprecated" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a401ea27-2895-468d-b8ac-d4dd50a87a7f" name="Default Changelist" comment="thg versão 1.2" />
-      <created>1605320227106</created>
+      <changelist id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="" />
+      <created>1619209954874</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605320227106</updated>
-      <workItem from="1605320229217" duration="5039000" />
-      <workItem from="1605414650217" duration="15936000" />
-      <workItem from="1605490291660" duration="1616000" />
-      <workItem from="1605574062586" duration="1742000" />
-      <workItem from="1605579536685" duration="5636000" />
-      <workItem from="1605614483035" duration="1193000" />
-      <workItem from="1605674616506" duration="6928000" />
-      <workItem from="1617391477624" duration="599000" />
-      <workItem from="1617631384290" duration="2076000" />
-      <workItem from="1617650242696" duration="2411000" />
-      <workItem from="1617656483907" duration="604000" />
-      <workItem from="1617657107379" duration="2766000" />
-      <workItem from="1617665970518" duration="2230000" />
-      <workItem from="1617668504371" duration="4660000" />
-      <workItem from="1617673208898" duration="9835000" />
-      <workItem from="1619204865572" duration="1162000" />
+      <updated>1619209954874</updated>
+      <workItem from="1619209957243" duration="3556000" />
+      <workItem from="1619213533010" duration="5408000" />
     </task>
-    <task id="LOCAL-00001" summary="thg version 1.2">
-      <created>1605320756880</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1605320756880</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[thg version 1.2][formatando os imports]">
-      <created>1605321134465</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605321134465</updated>
-    </task>
-    <task id="LOCAL-00003" summary="[thg version 1.2][VERSION]">
-      <created>1605323614673</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1605323614673</updated>
-    </task>
-    <task id="LOCAL-00004" summary="[thg version 1.2][VERSION]">
-      <created>1605323833873</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605323833873</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[thg version 1.2][VERSION]">
-      <created>1605323972261</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605323972261</updated>
-    </task>
-    <task id="LOCAL-00006" summary="[base metasploit][init]">
-      <created>1605420627797</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605420627797</updated>
-    </task>
-    <task id="LOCAL-00007" summary="[db][db_rebuild][check module insert ou not]">
-      <created>1605463487434</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1605463487434</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add recode_file try fix on list mtd">
-      <created>1605465811054</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1605465811054</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add msf">
-      <created>1605465833143</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1605465833143</updated>
-    </task>
-    <task id="LOCAL-00010" summary="remove env">
-      <created>1619207572708</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1619207572708</updated>
-    </task>
-    <task id="LOCAL-00011" summary="a">
-      <created>1619208928273</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1619208928273</updated>
-    </task>
-    <task id="LOCAL-00012" summary="test2">
-      <created>1619209014771</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1619209014771</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,19 +105,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/testedev" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -362,39 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="thg version 1.2" />
-    <MESSAGE value="[thg version 1.2][formatando os imports]" />
-    <MESSAGE value="[thg version 1.2][VERSION]" />
-    <MESSAGE value="[base metasploit][init]" />
-    <MESSAGE value="[db][db_rebuild][check module insert ou not]" />
-    <MESSAGE value="add recode_file try fix on list mtd" />
-    <MESSAGE value="add msf" />
-    <MESSAGE value="remove env" />
-    <MESSAGE value="a" />
-    <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py</url>
-          <line>2283</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add thgscript" />
+    <option name="LAST_COMMIT_MESSAGE" value="add thgscript" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/thg_framework$a.coverage" NAME="a Coverage Results" MODIFIED="1605119416273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/thg_framework$version.coverage" NAME="version Coverage Results" MODIFIED="1605074414177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/metasploit/framework/api" />
-    <SUITE FILE_PATH="coverage/thg_framework$opt_bool.coverage" NAME="opt_bool Coverage Results" MODIFIED="1605070322258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
-    <SUITE FILE_PATH="coverage/thg_framework$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1605417571032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/thg_framework$constants.coverage" NAME="constants Coverage Results" MODIFIED="1605316380924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
-    <SUITE FILE_PATH="coverage/thg_framework$opt_raw.coverage" NAME="opt_raw Coverage Results" MODIFIED="1605068105762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
-    <SUITE FILE_PATH="coverage/thg_framework$opt_float.coverage" NAME="opt_float Coverage Results" MODIFIED="1605070348186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
-    <SUITE FILE_PATH="coverage/thg_framework$author.coverage" NAME="author Coverage Results" MODIFIED="1605043638468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
-    <SUITE FILE_PATH="coverage/thg_framework$BaseOptions.coverage" NAME="BaseOptions Coverage Results" MODIFIED="1605071033770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass" />
-    <SUITE FILE_PATH="coverage/thg_framework$opt_port.coverage" NAME="opt_port Coverage Results" MODIFIED="1605066326062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core" />
+    <SUITE FILE_PATH="coverage/thg_framework$deprecated.coverage" NAME="deprecated Coverage Results" MODIFIED="1619214388657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
   </component>
 </project>

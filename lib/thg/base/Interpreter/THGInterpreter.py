@@ -96,7 +96,7 @@ class ThgInterpreter(Cmd, Database):
     # command categories
 
     ########################
-    def __init__(self):
+    def __init__(self) -> object:
         super(ThgInterpreter, self).__init__()
         Database.__init__(self)
         self.prompt = self.console_prompt + self.console_prompt_end

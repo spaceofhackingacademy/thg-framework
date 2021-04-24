@@ -30,7 +30,7 @@ from lib.thg.core.Mods.auxiliary.Web import Url
 from time import sleep
 import requests
 from bs4 import BeautifulSoup
-
+from lib.thg.core.BaseXmodeClass.Options.deprecated import Deprecated
 
 class Exploit(BaseMod):
     def __init__(self):
@@ -55,7 +55,8 @@ class Exploit(BaseMod):
         ##
         self.register_crawler_target()
         self.options.set_option("SleepTime", 0.5)
-
+        Deprecated(moduledeprecatedname="darkcode357", newmodulenamae="exploits/multi/handler",
+                   info=True).moddeprecated()
     def check(self):
         url = self.options.get_option("url")
         if Url(url).check_url() == True:
@@ -65,7 +66,6 @@ class Exploit(BaseMod):
             print("url=> http://|https://|https://www|http://www")
 
     def exploit(self):
-
         results = []
         url = self.options.get_option("url")
         sleeptime = self.options.get_option("SleepTime")

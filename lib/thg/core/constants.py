@@ -1,7 +1,7 @@
 
 from colorama import Fore
 from lib.thg.base.Database.Database import Database
-
+import platform
 ###
 #
 # This file contains constants that are referenced by the core
