@@ -25,9 +25,9 @@ voce ter um bom intendimento de como as coisas funcioano
 
 1=>Nossa documentação está disponível em [https://darkcode0x00.com.br/thg](http://t/thg)
 
-2=>Uma série de tutoriais também está disponível online [tutorial de como usar o thg](https://github.com/darkcode357/thg-tutorial#readme)
+2=>Uma série de tutoriais também está disponível online [tutorial de como usar o thg](https://thgframework.github.io/thg-framework/)
 
-3=>Para começar, fornecemos algumas soluções de exemplo para desafios anteriores de CTF em nosso [repositório de write-ups](https://github.com/darkcode357/thg--write-ups).
+3=>Para começar, fornecemos algumas soluções de exemplo para desafios anteriores de CTF em nosso [repositório de write-ups](https://github.com/darkcode357/thg-write-ups).
 # Instalação
 O THG e um sistema genérico de exploração voltada para qualquer tipó de interface de comunicação desde servidores ate aplicações e coneções seriais
 a suas funções funcionaao em todos os sistemas base Posix  

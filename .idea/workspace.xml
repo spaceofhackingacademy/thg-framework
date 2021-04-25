@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add mkdocs-material to requirements.txt and documentation(mkdocs)">
-      <change afterPath="$PROJECT_DIR$/documentation/docs/authentication.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/changelog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/migrating.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/reference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/v1/mkdocs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/docs/v2/mkdocs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/repo-1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="adding documentation structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentation/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentation/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/mkdocs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +91,7 @@
       <updated>1619209954874</updated>
       <workItem from="1619209957243" duration="3556000" />
       <workItem from="1619213533010" duration="6250000" />
-      <workItem from="1619355351585" duration="6488000" />
+      <workItem from="1619355351585" duration="8051000" />
     </task>
     <task id="LOCAL-00001" summary="add thgscript">
       <created>1619225274050</created>
@@ -130,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619357155190</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding documentation structure">
+      <created>1619362526728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619362526728</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +163,8 @@
     <MESSAGE value="remove         Deprecated(moduledeprecatedname=&quot;darkcode357&quot;, newmodulenamae=&quot;exploits/multi/handler&quot;,&#10;                   info=True).moddeprecated()" />
     <MESSAGE value="add envthg .idea to gitignore" />
     <MESSAGE value="add mkdocs-material to requirements.txt and documentation(mkdocs)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mkdocs-material to requirements.txt and documentation(mkdocs)" />
+    <MESSAGE value="adding documentation structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding documentation structure" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/thg_framework$deprecated.coverage" NAME="deprecated Coverage Results" MODIFIED="1619214388657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
