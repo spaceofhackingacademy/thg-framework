@@ -1,0 +1,67 @@
+site_name: thg doc
+repo_url: https://github.com/THGFramework/thg-framework
+repo_name: THGFramework/thg-framework
+
+theme:
+  name: material
+
+
+nav:
+  - Intro: 'index.md'
+  - Authentication: 'authentication.md'
+  - API:
+    - v1: '!include ./v1/mkdocs.yml'
+    - v2: '!include ./v2/mkdocs.yml'
+
+markdown_extensions:
+    - toc:
+        toc_depth: 3
+        permalink: True
+    - extra
+    - smarty
+    - codehilite
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.emoji
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+
+plugins:
+
+  - monorepo
+  - awesome-pages
+  - search
+  - progress
+  - mkdocs-nav-enhancements
+  - autolinks
+  - abs-to-rel
+  - emailprotect
+  - markmap
+  - mkdocstrings
+  - git-authors
+  - mknotebooks:
+      enable_default_jupyter_cell_styling: true
+      enable_default_pandas_dataframe_styling: true
+  - autolink_references:
+      autolinks:
+        - reference_prefix: PROJ-
+          target_url: https://jiracloud.com/PROJ-<num>
+        - reference_prefix: issues-
+          target_url: https://github.com/THGFramework/thg-framework/issues/<num>
+
+  #- encryptcontent:
+   #   title_prefix: 'HTB'
+    #  summary: 'another informational message to encrypted content'
+     # placeholder: 'another password placeholder'
+      #decryption_failure_message: 'another informational message when decryption fail'
+      #encryption_info_message: 'another information message when you dont have acess !'
+      #tag_encrypted_page: True
+      #global_password: ''#add pass
+  - mike:
+        # these fields are all optional; the defaults are as below...
+        version_selector: true   # set to false to leave out the version selector
+        css_dir: css             # the directory to put the version selector's CSS
+        javascript_dir: js       # the directory to put the version selector's JS
+        canonical_version: null  # the version for <link rel="canonical">; `null`
+        # uses the version specified via `mike deploy`

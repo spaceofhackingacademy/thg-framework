@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add thgscript">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thg-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/lib.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thgscript/teste" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/external.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/options.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/ui.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" afterDir="false" />
-    </list>
+    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="close issues 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -39,6 +24,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1raMsQl5c9vRaP2mMwAnhiqSoZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,12 +34,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/documentation/docs/v2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentation/docs/v2" />
+      <recent name="$PROJECT_DIR$/documentation/docs/v1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="deprecated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -93,8 +85,52 @@
       <option name="presentableId" value="Default" />
       <updated>1619209954874</updated>
       <workItem from="1619209957243" duration="3556000" />
-      <workItem from="1619213533010" duration="5408000" />
+      <workItem from="1619213533010" duration="6250000" />
+      <workItem from="1619355351585" duration="8178000" />
     </task>
+    <task id="LOCAL-00001" summary="add thgscript">
+      <created>1619225274050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619225274050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove         Deprecated(moduledeprecatedname=&quot;darkcode357&quot;, newmodulenamae=&quot;exploits/multi/handler&quot;,&#10;                   info=True).moddeprecated()">
+      <created>1619355473867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619355473867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add envthg .idea to gitignore">
+      <created>1619356037530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619356037530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add mkdocs-material to requirements.txt and documentation(mkdocs)">
+      <created>1619357155190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619357155190</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding documentation structure">
+      <created>1619362526728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619362526728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="close issues 4">
+      <created>1619363873737</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619363873737</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +141,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -114,7 +162,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add thgscript" />
-    <option name="LAST_COMMIT_MESSAGE" value="add thgscript" />
+    <MESSAGE value="remove         Deprecated(moduledeprecatedname=&quot;darkcode357&quot;, newmodulenamae=&quot;exploits/multi/handler&quot;,&#10;                   info=True).moddeprecated()" />
+    <MESSAGE value="add envthg .idea to gitignore" />
+    <MESSAGE value="add mkdocs-material to requirements.txt and documentation(mkdocs)" />
+    <MESSAGE value="adding documentation structure" />
+    <MESSAGE value="close issues 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="close issues 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/thg_framework$deprecated.coverage" NAME="deprecated Coverage Results" MODIFIED="1619214388657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
