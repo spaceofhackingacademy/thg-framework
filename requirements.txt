@@ -1,5 +1,18 @@
 mkdocs
 mkdocs-material
+mkdocs-versioning
+mkdocs-awesome-pages-plugin
+mkdocs-plugin-progress
+mkdocs-nav-enhancements
+mkdocs-autolinks-plugin
+autolink-references-mkdocs-plugin
+mknotebooks
+Pygments
+mkdocstrings
+pymdown-extensions
+mkpdfs-mkdocs
+mkdocs-rss-plugin-0.14.0
+pip install git+https://github.com/rkoe/mkdocs-emailprotect
 alabaster==0.7.12
 appdirs==1.4.4
 argcomplete==1.11.1

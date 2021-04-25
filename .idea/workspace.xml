@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add envthg .idea to gitignore">
+    <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add mkdocs-material to requirements.txt and documentation(mkdocs)">
+      <change afterPath="$PROJECT_DIR$/documentation/docs/authentication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/docs/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/docs/migrating.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/docs/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/docs/v1/mkdocs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/docs/v2/mkdocs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/repo-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/mkdocs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +38,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1raMsQl5c9vRaP2mMwAnhiqSoZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,12 +48,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/documentation/docs/v2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentation/docs/v2" />
+      <recent name="$PROJECT_DIR$/documentation/docs/v1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="deprecated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -81,7 +100,7 @@
       <updated>1619209954874</updated>
       <workItem from="1619209957243" duration="3556000" />
       <workItem from="1619213533010" duration="6250000" />
-      <workItem from="1619355351585" duration="1317000" />
+      <workItem from="1619355351585" duration="6488000" />
     </task>
     <task id="LOCAL-00001" summary="add thgscript">
       <created>1619225274050</created>
@@ -104,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619356037530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mkdocs-material to requirements.txt and documentation(mkdocs)">
+      <created>1619357155190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619357155190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +164,8 @@
     <MESSAGE value="add thgscript" />
     <MESSAGE value="remove         Deprecated(moduledeprecatedname=&quot;darkcode357&quot;, newmodulenamae=&quot;exploits/multi/handler&quot;,&#10;                   info=True).moddeprecated()" />
     <MESSAGE value="add envthg .idea to gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add envthg .idea to gitignore" />
+    <MESSAGE value="add mkdocs-material to requirements.txt and documentation(mkdocs)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mkdocs-material to requirements.txt and documentation(mkdocs)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/thg_framework$deprecated.coverage" NAME="deprecated Coverage Results" MODIFIED="1619214388657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options" />
