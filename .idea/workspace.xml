@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1eb9f19-fc2f-49a1-ae5d-c58e1507c372" name="Default Changelist" comment="add thgscript">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thg-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/lib.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thgscript/teste" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/THGInterpreter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/base/Interpreter/thgcmd/thgcmd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/deprecated.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/external.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/generate_uuid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/options.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/BaseXmodeClass/Options/ui.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/thg/core/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thg/core/constants.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auxiliary/crawler/thgcrawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -93,8 +81,17 @@
       <option name="presentableId" value="Default" />
       <updated>1619209954874</updated>
       <workItem from="1619209957243" duration="3556000" />
-      <workItem from="1619213533010" duration="5408000" />
+      <workItem from="1619213533010" duration="6250000" />
+      <workItem from="1619355351585" duration="74000" />
     </task>
+    <task id="LOCAL-00001" summary="add thgscript">
+      <created>1619225274050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619225274050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +102,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

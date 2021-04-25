@@ -55,8 +55,7 @@ class Exploit(BaseMod):
         ##
         self.register_crawler_target()
         self.options.set_option("SleepTime", 0.5)
-        Deprecated(moduledeprecatedname="darkcode357", newmodulenamae="exploits/multi/handler",
-                   info=True).moddeprecated()
+
     def check(self):
         url = self.options.get_option("url")
         if Url(url).check_url() == True:
