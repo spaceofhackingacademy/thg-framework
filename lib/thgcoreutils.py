@@ -1,9 +1,9 @@
 ''''
 =begin
 
-The Metasploit Rex library is provided under the 3-clause BSD license.
+The thgcore library is provided under the 3-clause BSD license.
 
-Copyright (c) 2005-2014, Rapid7, Inc.
+Copyright (c) 2020-2021, Darkcode0x00, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -16,7 +16,7 @@ are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation 
    and/or other materials provided with the distribution.
    
- * Neither the name of Rapid7, Inc. nor the names of its contributors may be 
+ * Neither the name of Darkcode0x00, Inc. nor the names of its contributors may be 
    used to endorse or promote products derived from this software without 
    specific prior written permission.
 
@@ -30,13 +30,6 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-=end
-
-module Rex
-  Root = File.join(File.expand_path(File.dirname(__FILE__)), 'rex')
-  LogSource = "rex"
-end
 
 #
 # REX Gems
@@ -119,18 +112,4 @@ require 'rex/crypto/aes256'
 require 'rex/crypto/rc4'
 require 'rex/crypto/chacha20'
 
-
-# Overload the Kernel.sleep() function to be thread-safe
-Kernel.class_eval("
-  def sleep(seconds=nil)
-    Rex::ThreadSafe.sleep(seconds)
-  end
-")
-
-# Overload the Kernel.select function to be thread-safe
-Kernel.class_eval("
-  def select(rfd = nil, wfd = nil, efd = nil, to = nil)
-    Rex::ThreadSafe.select(rfd, wfd, efd, to)
-  end
-")
 '''
